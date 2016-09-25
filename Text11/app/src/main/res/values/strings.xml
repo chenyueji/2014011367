@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Text11</string>
+    <string name="title_activity_another">AnotherActivity</string>
+    <string name="title_activity_aanother">AAnotherActivity</string>
+</resources>
